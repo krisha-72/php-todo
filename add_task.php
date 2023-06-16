@@ -1,4 +1,4 @@
-add_tsk<?php
+<?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $taskName = $_POST['task_name'];
 
